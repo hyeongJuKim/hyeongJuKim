@@ -1,6 +1,6 @@
 <h1 align="center">Hyeongju Kim</h1>
 
-<h3 align="center">📚 Status 📚</h3>
+<h3 align="center">📈 Status 📈</h3>
 <div align="center">
   <img class="img" src="https://github-readme-stats.vercel.app/api?username=hyeongjukim&show_icons=true&theme=default" />
 </div>
