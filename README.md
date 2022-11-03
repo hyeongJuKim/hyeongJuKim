@@ -3,15 +3,19 @@
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeongjukim&show_icons=true&theme=default)
 -->
-<h3 align="center">🏢 Stack 🏢</h3>
+<h3 align="center">📚 Stack 📚</h3>
+<!-- https://shields.io/category/size -->
 <p align="center">
-<img src="https://img.shields.io/badge/Java-F80000?style=flat-square&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Openlayers-1F6B75?style=flat-square&logo=Openlayers&logoColor=white"/>
-<img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostGIS-4169E1?style=flat-square&logo=PostGIS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JAVA-brightgreen"/>
+  <img src="https://img.shields.io/badge/-SPRING-brightgreen"/>
+  <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow"/>
+  <img src="https://img.shields.io/badge/-OpenLayers-yellow"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-ORACLE-important"/>
+  <img src="https://img.shields.io/badge/-MySQL-important"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-important"/>
+  <img src="https://img.shields.io/badge/-PostGIS-important"/>
 </p>
 
 <br><br>
