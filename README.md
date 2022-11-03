@@ -19,7 +19,7 @@
 
 <h3 align="center">✨ Me ✨</h3>
 <p align="center">
-  <a href="https://www.instagram.com/hyeong._.ju/">
+  <a href="https://www.instagram.com/hyeong._.ju/" target='_blank'>
     <img src="https://img.shields.io/badge/Instagram-fc65f5?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hyeong._.ju/"/>
   </a>&nbsp
   <a href="mailto:hybrid.simpler@gmail.com">
