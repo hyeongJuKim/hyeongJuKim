@@ -1,4 +1,4 @@
-<h3>👋&nbsp; 안녕하세요 <b>web developer</b> 김형주 입니다.</h3>
+<h3>안녕하세요. <b>web developer</b> 김형주 입니다.</h3>
 
 <p>
   <a href="https://www.instagram.com/hyeong._.ju/" target='_blank'>
@@ -9,10 +9,11 @@
   </a>
 </p>
 
+
 <h3>📚 Stack</h3>
 <p>
-  <img src="https://img.shields.io/badge/-JAVA-red?style=flat-square"/>
-  <img src="https://img.shields.io/badge/-SPRING-red?style=flat-square"/>
+  <img src="https://img.shields.io/badge/-JAVA-lightblue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/-SPRING-lightblue?style=flat-square"/>
   <img src="https://img.shields.io/badge/-JAVASCRIPT-blue?style=flat-square"/>
   <img src="https://img.shields.io/badge/-OpenLayers-blue?style=flat-square"/>
   <img src="https://img.shields.io/badge/-LINUX-yellow?style=flat-square"/>
